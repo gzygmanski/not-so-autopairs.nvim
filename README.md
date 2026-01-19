@@ -2,6 +2,15 @@
 
 Simple semi-automatic autopairs plugin
 
+## Installation
+
+Using Lazy:
+
+```
+"gzygmanski/not-so-autopairs.nvim"
+    
+```
+
 ## Usage
 
 To use double tap opening symbol in insert mode, e.g. `{{`
