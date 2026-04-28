@@ -1,2 +1,1 @@
-require("not-so-autopairs").setup {}
-
+require("not-so-autopairs").setup()
